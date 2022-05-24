@@ -250,11 +250,33 @@
                 },
                 {
                     "name": "",
+                    "id": "02d4fe14-7d25-4bb3-9178-723044f0effb",
+                    "path": "<Gamepad>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Make Daytime",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "5b770e63-e97c-42ee-8269-0c85029d7b43",
                     "path": "<Keyboard>/enter",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard",
+                    "action": "Make Nighttime",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "714b6b40-4d9a-4931-975a-66fc0e0ed71f",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
                     "action": "Make Nighttime",
                     "isComposite": false,
                     "isPartOfComposite": false
